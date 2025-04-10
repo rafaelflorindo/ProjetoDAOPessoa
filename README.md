@@ -18,7 +18,7 @@ IntelliJ IDEA (ou outra IDE de sua preferência)
 Git e GitHub
 
 🧱 Estrutura do Projeto
-ProjetoDAOPessoa/
+```ProjetoDAOPessoa/
 │
 ├── src/
 │   └── dao/
@@ -29,7 +29,7 @@ ProjetoDAOPessoa/
 │
 ├── LICENSE
 └── README.md
-
+```
 🔍 Conceitos Aplicados
 Padrão DAO: Implementação de um padrão que abstrai e encapsula o acesso ao banco de dados, proporcionando uma interface para as operações de CRUD.
 
